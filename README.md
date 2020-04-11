@@ -1,0 +1,2 @@
+# change_twitter_dowload_image_extension_name
+將檔案拖入後，即可更改檔案副檔名
